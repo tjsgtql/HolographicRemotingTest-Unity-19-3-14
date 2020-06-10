@@ -2,6 +2,8 @@
 
 This project is the smallest case prepared for this question. https://stackoverflow.com/questions/62056166/holographic-remoting-can-not-capture-gestures-at-unity
 
+This example use unity2019.3.14
+
 ## BuiltinConnector
 
 Open Scenes/BuiltinConnector, open unity built-in holographic remoting at window/xr/holographic emulation, connect to hololens device, and run. And try use tap, you will see log at world space ui, like "tap"\"pressed".
